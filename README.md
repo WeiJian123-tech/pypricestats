@@ -20,6 +20,7 @@ for their articles about web scraping and
 for his/her article about converting a python file into an executable
 
 Links:
+
 [https://medium.com/analytics-vidhya/how-to-scrape-data-from-a-website-using-python-for-beginner-5c770a1fbe2d](https://medium.com/analytics-vidhya/how-to-scrape-data-from-a-website-using-python-for-beginner-5c770a1fbe2d)
 [https://brightdata.com/blog/how-tos/web-scraping-with-python](https://brightdata.com/blog/how-tos/web-scraping-with-python)
 
